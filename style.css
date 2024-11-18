@@ -1,0 +1,30 @@
+body {
+    background-image: url();
+    background-size: cover;
+}
+h1 {
+    color: bisque;
+    text-align: center;
+} 
+p {
+    size: 40pt;
+}
+.title-h1{
+    color: blue 
+}
+.title22{
+    color: chocolate;
+}
+.title25{
+    color: deeppink;
+}
+.list1{
+    color: aqua
+}
+.list2{
+    color: aqua;
+}
+.list3{
+    color: aqua;
+}
+.ul1{list-style: square}
